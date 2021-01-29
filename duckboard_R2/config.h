@@ -14,6 +14,8 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
+//edited by schmintendo, changed mouse wheel scroll interval
+
 #ifndef CONFIG_H
 #define CONFIG_H
 
@@ -39,6 +41,8 @@
 #define ENCODERS_PAD_A { F6 }
 #define ENCODERS_PAD_B { F5 }
 #define ENCODER_RESOLUTION 2
+
+#define MOUSEKEY_WHEEL_INTERVAL 50
 
 /* media key slowdown for windows */
 #define TAP_CODE_DELAY 20
