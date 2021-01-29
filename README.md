@@ -9,7 +9,7 @@ Follow QMK tutorial to compile your own firmware.
 https://beta.docs.qmk.fm/tutorial/newbs_building_firmware 
 
 
-##This fork has an already compiled .hex for convenience, as well as adjustments to the default keymap for use in "osu!".
+## This fork has an already compiled .hex for convenience, as well as adjustments to the default keymap for use in "osu!".
 
 Changes:
 * Bongo cat animation, modified from the popular [Kyria keymap](https://github.com/qmk/qmk_firmware/blob/master/keyboards/kyria/keymaps/j-inc/keymap.c)
